@@ -76,7 +76,7 @@
 - Implemented core Java best practices, including design patterns and SOLID principles, improving code maintainability scores.
 
 ### **Software Developer**  
-**Infor, New York, New York**  
+**GSPANN Technologies, Inc, Milpitas, CA**  
 *Feb 2021 – July 2022*  
 - Developed web interface for Users Modules using JSP, HTML, XML, CSS, Java Script, and AJAX with spring framework. 
 - Implemented User Friendly UI design with HTML, CSS and JavaScript for client-side validation and form submission functions. 
